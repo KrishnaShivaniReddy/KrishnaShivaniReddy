@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrishnaShivaniReddy
-- 👀 I’m interested in Data Science,ML,IOT
+- 👀 I’m interested in Data Science, ML, IOT and Big data
 - 🌱 Currently working as Data Engineer
 - 📫 How to reach me - linkedin.com/in/krishna-shivani-417152184
 
